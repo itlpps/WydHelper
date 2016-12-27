@@ -1,0 +1,11 @@
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\bin\Debug\WydHelper.exe.config
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\bin\Debug\WydHelper.exe
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\bin\Debug\WydHelper.pdb
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\bin\Debug\WindowsInput.dll
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\bin\Debug\WindowsInput.xml
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.csprojResolveAssemblyReference.cache
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.Form1.resources
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.Properties.Resources.resources
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.csproj.GenerateResource.Cache
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.exe
+c:\users\itl\documents\visual studio 2015\Projects\WydHelper\WydHelper\obj\Debug\WydHelper.pdb
